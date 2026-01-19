@@ -34,7 +34,7 @@ Participants will develop demos for end-to-end generation, testing, and maintena
 
 ## Submission Guidelines
 
-Submission link: [ODAI-LIB Challenge Submission Portal (EasyChair)](https://easychair.org/conferences/?conf=odailib2026)
+Submission link: [ODAI-LIB Challenge Submission Portal (EasyChair)](https://easychair.org/conferences/?conf=odailibchallenge2026)
 
 All submissions must be original and must not be simultaneously submitted to another journal or conference.
 
