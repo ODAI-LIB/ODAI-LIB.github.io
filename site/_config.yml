@@ -33,7 +33,9 @@ header_pages:
 
 nav-links:
 - title: FSE 2026
-  url: https://conf.researchr.org/home/fse-2026
+  url: https://conf.researchr.org/track/fse-2026/fse-2026-aiware-2026-competition
+- title: AIWare 2026
+  url: https://2026.aiwareconf.org/track/aiware-2026-fse-aiware-joint-competition
 
 # Build settings
 theme: minima
